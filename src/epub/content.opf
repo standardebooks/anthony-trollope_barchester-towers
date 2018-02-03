@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anthony-trollope/barchester-towers</dc:identifier>
 		<dc:date>2018-02-02T05:22:34Z</dc:date>
-		<meta property="dcterms:modified">2018-02-02T05:22:34Z</meta>
-		<meta property="se:revision-number">1</meta>
+		<meta property="dcterms:modified">2018-02-03T19:05:22Z</meta>
+		<meta property="se:revision-number">2</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,7 +46,7 @@
 			&lt;p&gt;As this novel opens, the old Bishop of Barchester lies dying, and there is considerable doubt as to who will replace him. The Bishop’s son Dr. Grantly, the Archdeacon, has high hopes of succeeding him, but these hopes are dashed and a new Bishop, Dr. Proudie, is appointed. Along with Dr. Proudie comes his domineering wife and their ambitious chaplain the Reverend Mr. Slope.&lt;/p&gt;
 			&lt;p&gt;The old clerical party headed by Dr. Grantly and the new, championed by Mrs. Proudie and Mr. Slope, are soon in contention over Church matters. These two parties represent a then-significant struggle between different evangelical approaches in the Church of England. One local issue in particular is fought over—the appointment of a new Warden for Hiram’s Hospital, the focus of the preceding book.&lt;/p&gt;
 			&lt;p&gt;Mrs. Eleanor Bold is the daughter of Mr. Harding, the prior Warden. She has recently been widowed. The wealth she inherited from her late husband makes her an attractive match, and her affections are in contention from several prospective suitors, including the oily Mr. Slope. All of this lends itself to considerable humor and interest.&lt;/p&gt;
-			&lt;i&gt;Though not well received by critics on its initial publication, &lt;i&gt;Barchester Towers&lt;/i&gt; is now regarded as one of Trollope’s most popular novels. Together with &lt;i&gt;The Warden&lt;/i&gt;, it was made into a very successful television series by the BBC in 1982.&lt;/p&gt;
+			&lt;p&gt;Though not well received by critics on its initial publication, &lt;i&gt;Barchester Towers&lt;/i&gt; is now regarded as one of Trollope’s most popular novels. Together with &lt;i&gt;The Warden&lt;/i&gt;, it was made into a very successful television series by the BBC in 1982.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
