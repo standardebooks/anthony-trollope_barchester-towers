@@ -26,20 +26,23 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Barchester Towers</dc:title>
 		<meta property="file-as" refines="#title">Barchester Towers</meta>
 		<dc:subject id="subject-1">Barchester (England : Imaginary place) -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Domestic fiction</dc:subject>
 		<dc:subject id="subject-3">Clergy -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Barsetshire (England: Imaginary place) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3409</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/3409</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/3409</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/3409</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2009116807</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh86004353</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85026951</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The affections of a young widow are at play while rival clerical factions contend for control over church matters in the cathedral city of Barchester.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Barchester Towers&lt;/i&gt;, published in 1857, is the sequel to Trollope’s &lt;i&gt;The Warden&lt;/i&gt; and continues the story of the clerical doings in the fictional cathedral town of Barchester.&lt;/p&gt;
 			&lt;p&gt;As this novel opens, the old Bishop of Barchester lies dying, and there is considerable doubt as to who will replace him. The Bishop’s son Dr. Grantly, the Archdeacon, has high hopes of succeeding him, but these hopes are dashed and a new Bishop, Dr. Proudie, is appointed. Along with Dr. Proudie comes his domineering wife and their ambitious chaplain the Reverend Mr. Slope.&lt;/p&gt;
@@ -47,7 +50,6 @@
 			&lt;p&gt;Mrs. Eleanor Bold is the daughter of Mr. Harding, the prior Warden. She has recently been widowed. The wealth she inherited from her late husband makes her an attractive match, and her affections are in contention from several prospective suitors, including the oily Mr. Slope. All of this lends itself to considerable humor and interest.&lt;/p&gt;
 			&lt;p&gt;Though not well received by critics on its initial publication, &lt;i&gt;Barchester Towers&lt;/i&gt; is now regarded as one of Trollope’s most popular novels. Together with &lt;i&gt;The Warden&lt;/i&gt;, it was made into a very successful television series by the BBC in 1982.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3409</dc:source>
 		<dc:source>https://archive.org/details/barchestertower00trolgoog</dc:source>
