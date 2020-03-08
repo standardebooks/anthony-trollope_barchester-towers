@@ -54,8 +54,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3409</dc:source>
 		<dc:source>https://archive.org/details/barchestertower00trolgoog</dc:source>
 		<dc:source>https://archive.org/details/barchestertowers00troliala</dc:source>
-		<meta property="se:word-count">200354</meta>
-		<meta property="se:reading-ease.flesch">71.34</meta>
+		<meta property="se:word-count">200361</meta>
+		<meta property="se:reading-ease.flesch">71.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Barchester_Towers</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_barchester-towers</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
