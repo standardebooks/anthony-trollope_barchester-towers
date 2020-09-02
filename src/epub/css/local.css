@@ -6,11 +6,6 @@
 	text-align: center;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 [epub|type~="se:letter.dateline"]{
 	margin-top: 1em;
 	text-align: right;
