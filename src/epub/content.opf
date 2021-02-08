@@ -42,6 +42,9 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">83</meta>
 		<dc:description id="description">The affections of a young widow are at play while rival clerical factions contend for control over church matters in the cathedral city of Barchester.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Barchester Towers&lt;/i&gt;, published in 1857, is the sequel to &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/the-warden"&gt;&lt;i&gt;The Warden&lt;/i&gt;&lt;/a&gt; and continues the story of the clerical doings in the fictional cathedral town of Barchester.&lt;/p&gt;
